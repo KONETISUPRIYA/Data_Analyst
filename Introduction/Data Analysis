@@ -1,0 +1,52 @@
+It is a process of identifying ,cleaning,transforming and modeling the  data to discover the meaningful and useful information
+
+
+
+
+	• To analyze the data core components of analytics are divided into following categories
+
+
+		• Descriptive
+		• Diagnostic
+		• Predictive
+		• Prescriptive
+		• Artificial Intelligence (AI)
+
+
+	1. DESCRIPTIVE : (what happened)
+	
+
+	• By developing KPI (Key performance Indicators) we can analyze the failure and success rate 
+	
+	2. DIAGNOSTIC : (Why events happened)
+	
+	• They find from the descriptive analytics to discover the cause of events
+	• Then KPI where investigated to know about why this gets better and became worse 
+	
+	THREE STEPS :
+	
+		1.   Identify the anamolis of the data ,this might be unexpected changes in metrics (or) particular market
+		2.   Collect data relate to anamolis
+		3. Use statistical techniques to discover relationships and trends that explain anamolis
+		
+	3. PREDICTIVE ANALYSIS : (What will happen)
+	
+	• Give analysis which might happen in future .
+	• It helps to historical data to identify trends and determine if they're likely to occur 
+	
+	4.  PRESCRIPTIVE ANALYSIS : (What action should we take  to achieve the target or goal)
+
+	• By taking this analysis,will take data driven descision 
+	• This rely on machine learning as one of the strategies to find patterns in large semantic models
+	
+    5.     ARTIFICIAL INTELLIGENCE (AI) : 
+
+	• In context of analytics , AI enables systems to process vast amount of data ,recognize patterns and deliver insights with minimal human intervention
+	
+	
+	
+
+	
+	
+		
+		
