@@ -1,8 +1,8 @@
-**HR Employee Attendance Dashboard in Excel**
+# **HR Employee Attendance Dashboard in Excel**
 
 Excited to share my latest Excel dashboard project where I analyzed employee attendance data and transformed raw records into an interactive reporting dashboard.
 
-🔹 **Key Features:**
+# 🔹 **Key Features:**
 
 👉 KPI Cards for quick performance overview
 
@@ -18,7 +18,7 @@ Excited to share my latest Excel dashboard project where I analyzed employee att
 
 👉 Business Insights Section for interpretation
 
-🛠️ **Skills Practiced:**
+# 🛠️ **Skills Practiced:**
 
 ✔️ Microsoft Excel
 
