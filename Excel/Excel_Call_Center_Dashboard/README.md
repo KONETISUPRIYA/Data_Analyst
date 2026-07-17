@@ -1,8 +1,8 @@
- **Built an Interactive Call Center Performance Dashboard in Excel**
+# **Built an Interactive Call Center Performance Dashboard in Excel**
  
 Excited to share my latest Excel dashboard project where I analyzed and visualized call center performance metrics using interactive charts and slicers.
 
-**Key Highlights:**
+# **Key Highlights:**
 
 ✔️ KPI Tracking (Total Calls, Resolved, Pending, Escalated)
 
@@ -18,9 +18,9 @@ Excited to share my latest Excel dashboard project where I analyzed and visualiz
  
  ✔️ Clean and User-Friendly Dashboard Design
  
-**Tools & Skills Used:**
+ # **Tools & Skills Used:**
 
-🔹 Microsoft Excel
+ 🔹 Microsoft Excel
 
  🔹 Pivot Tables
  
